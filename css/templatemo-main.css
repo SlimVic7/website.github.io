@@ -19,7 +19,7 @@ https://templatemo.com/tm-512-moonlight
 .seq-preloader {
   background: white;
   visibility: visible;
-  opacity: 1;
+  opacity: 2;
   position: absolute;
   z-index: 9999;
   height: 100%;
@@ -464,6 +464,7 @@ nav a:hover::before {
 	min-width: 100%;
 	overflow: hidden;
 	float: right;
+	margin-top: 100px;
 }
 
 .second-content .left-content {
