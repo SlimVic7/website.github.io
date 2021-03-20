@@ -4,7 +4,7 @@ jQuery(document).ready(function($) {
 
         $(window).load(function() { // makes sure the whole site is loaded
             $(".seq-preloader").fadeOut(); // will first fade out the loading animation
-            $(".sequence").delay(250).fadeOut("fast"); // will fade out the white DIV that covers the website.
+            $(".sequence").delay(200).fadeOut("fast"); // will fade out the white DIV that covers the website.
         })
       
         
