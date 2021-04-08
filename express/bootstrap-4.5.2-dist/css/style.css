@@ -1,0 +1,35 @@
+/*Home*/
+.about{
+    max-width:  500px;
+}
+.spar{
+    height:250px
+}
+
+
+/*Rooms*/
+.rtxt{
+    font-size: 10px;
+}
+.rtxt-ks{
+    font-size: 9.5px;
+}
+.fa-check-square{
+    font-size: 10px;
+    color: gray;
+}
+.bn-btn{
+    border-radius: 0;
+    padding: .6rem 1.5rem;
+}
+
+
+/* Contact PAge*/
+.contactbg{
+    max-width: 1350px;
+    min-height: 500px;
+}
+.contdiv{
+    padding-left: 70px;
+    padding-top: 150px;
+}
